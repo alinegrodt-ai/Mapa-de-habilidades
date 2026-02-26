@@ -1,7 +1,7 @@
 # Mapa-de-habilidades
 Projeto DIO
 
-Crei o seguinte Mapa de habilidades com o chatGPT, com a identificaçao das minhas habilidades, cruzamento dessas habilidades com o mercado e os caminhos para a monetização. O resultado ficou o seguinte:
+Criei o seguinte Mapa de habilidades com o chatGPT, com a identificaçao das minhas habilidades, cruzamento dessas habilidades com o mercado e os caminhos para a monetização. O resultado ficou o seguinte:
 
 preciso que você me ajude a montar um mapa de habilidades minhas
 
